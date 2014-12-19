@@ -1,6 +1,4 @@
 python
 ======
 
-python
-
-hello world!
+Files to some python courses and other
